@@ -24,4 +24,6 @@
 - **Music Production:** I enjoy producing and writing songs, particularly at night.
 - **Hiking & Outdoors:** Big fan of nature, trails, and the mountains.
 - **Fitness:** Following fitness routines and also take motivation from vaarious athelete.
-
+  
+##[home](index.me)
+##[contact me](contactme.md)
